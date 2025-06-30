@@ -1,0 +1,1 @@
+This proof-of-concept app demonstrates how an attacker can exploit vulnerabilities in an over-permissioned or poorly secured Android app. By targeting exported components such as services or activities without proper permission checks, this app is able to trigger sensitive functionality and extract private data, showcasing the risks of insecure inter-app communication.
